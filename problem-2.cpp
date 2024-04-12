@@ -1,4 +1,4 @@
-// 720. Longest Word in Dictionary
+// 146. LRU Cache
 // Time Complexity : O(1)
 // Space Complexity :O(1)
 // Did this code successfully run on Leetcode : yes
